@@ -15,6 +15,7 @@ LUTs in this repository are created for specific cameras and perform correctly o
 - Light used: amaran COB 60x S
 - DCP created in Lumariver 2.0.7 (repro mode) with tone curve taken from [pro neg hi](https://github.com/abpy/FujifilmCameraProfiles/blob/master/dcp%20xml/pro%20neg%20hi.txt "pro neg hi.txt") (I just like how it works)
 - LUTs created with camera-match, custom-developed photography technique and software
+- LUTs are created for sRGB gamut and gamma 
 
 ## Profile list
 
