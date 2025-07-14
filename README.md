@@ -33,8 +33,8 @@ This is original color science, it can be corrected by adjusting WB Temperature 
 - LUT creation done by outstanding [ethan-ou/camera-match](https://github.com/ethan-ou/camera-match)
 
 ## Licensing
-These profiles are licensed as  [cc-by-nc-sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You may modify, make derivatives, or distribute them, eg; for another camera make and model. But you must attribute this source, share with same license, and not sell them.
+These profiles are licensed as  [cc-by-nc-sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You may modify, make derivatives, or distribute them. But you must attribute this source, share with same license, and not sell them.
 
 All Photographs produced with these profiles are entirely your own work, and not derivatives. The license applies only to DCP and CUBE files in this repository.
 
-The Trademarks "Fujifilm", "Pro Neg Hi", "Classic Chrome", "Konica Minolta" are used for identification purposes only. No software from Fujifilm or Konica Minolta is contained in this repository
+The Trademarks "Fujifilm" "Pro Neg Hi", "Classic Chrome", "Nikon", "Konica Minolta" are used for identification purposes only. No software from Fujifilm, Nikon or Konica Minolta is contained in this repository
