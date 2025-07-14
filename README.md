@@ -25,6 +25,8 @@ LUTs in this repository are created for specific cameras and perform correctly o
 - NZF_to_KM5D_Rev-12-2-Neg.cube – transition LUT to Konica Minolta 5D jpeg with 'Natural' preset
 - NZF_to_KM5D_Rev-12-2-Sld.cube – transition LUT to Konica Minolta 5D jpe with 'EmbedAdobeRgb' preset
 
+Lenses used: Nikkor 40mm f2 and Sony SAL50F14 50mm f1.4
+
 Notes on Konica Minolta profiles: yes, they make colors warmer and shifted to red.
 This is original color science, it can be corrected by adjusting WB Temperature to colder and WB Tint to greener
 
