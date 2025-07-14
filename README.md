@@ -29,8 +29,8 @@ This is original color science, it can be corrected by adjusting WB Temperature 
 
 ## Acknowledgements
 
-Fuji-like profile data is derived from [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles) repo
-LUT creation done by outstanding [ethan-ou/camera-match](https://github.com/ethan-ou/camera-match)
+- Fuji-like profile data is derived from [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles) repo
+- LUT creation done by outstanding [ethan-ou/camera-match](https://github.com/ethan-ou/camera-match)
 
 ## Licensing
 These profiles are licensed as  [cc-by-nc-sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You may modify, make derivatives, or distribute them, eg; for another camera make and model. But you must attribute this source, share with same license, and not sell them.
